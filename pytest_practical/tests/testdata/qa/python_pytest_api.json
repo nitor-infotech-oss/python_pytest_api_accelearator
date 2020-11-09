@@ -1,0 +1,17 @@
+{
+  "dishant":
+  {
+    "email": "dishant.jariwala@nitorinfotech.com",
+    "password" : "#mypassword1996*"
+  },
+  "ysmith":
+  {
+    "email": "ysmith@nitorinfotech.com",
+    "password" : "#mypassword1996*"
+  },
+  "test_user":
+  {
+    "email": "test.user@nitorinfotech.com",
+    "password" : "#mypassword1996*"
+  }
+}
