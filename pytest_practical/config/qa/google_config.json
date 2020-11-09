@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "polished-zephyr-272009",
-  "private_key_id": "fd3f27327e802424e43ef082f5b7024948a89965",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpmSDnqOkfCb8N\np2iPgd0lt8hffqLIrpxHeX08zlSZFmZ0MeobgQtP/CmFZhONnBqRncc6Z+E1fgo2\nXAUBChklgJbUNWQk8kwetoZGe1awf1A/9sObU9CO7GRIy1HX1GJKE1LBBMUhxtgr\n1yqCdNIg6joRmAjAqATVm0qXgHsFtqlzifBp1rKX7zkgroboWM5KceeNBmEQ8U5o\nZFIe4YXOI4Xyc0z6AudfoSVFHQGL7rZ+7q5cRiZvUNsexTQdYVfUA2iDHXUuRDCt\nU6pGDrUBy50DvhhJoxS2W+Z8APrE+1cr8a6UZUQaNlE1FJBFT+XvAdObZYl3Xyvi\nQcTFq6G7AgMBAAECgf97s0MFtQL+kkfySf3rkaI7fPt+cpgsVdn8R+eQuV+JLNuq\nAPcHNQn9BeEKJFuQbiDy2/ctPuy9ewZNLgnNqg/mPGQ4gEcK5JL2DLmOIL1ExdBf\nEADVAyJiceyzZHx4GmJ5+mU28eAsXyNpSFxVkd946ZdUr52yrqFJ1nqDPyS0vdZK\nK4i9pWXgWBhIYQ9yIrvwucyB29tA37D9HUeJTtx5zkkQ8qUsF4F3OZgyMb7smv1p\nsxUJY6nSjAMutcOfHTJupiSNQU86ZKmXwhw2lj4yZZ/kIaKEvdlkU5ZgZOXfD6RC\npaTld66SLX85cm9bLp+hxOOoD6S3+x6jRp5Qd8kCgYEA1BuBTIv+/BCeXLWrayf4\nVYhnkTUyEM2e2cFSOh+DGcwpj3S15x4ZO4AkogLUvuLjFhX2xfGorooK6IM12DCt\nbzS0tuYHZXXlhCJ6ycWww8yKDK7oWSlZW2YtzmGhSUk+36nguwz3httYOIqP6qGv\nrCcjZBAO5PmZyWc4XEvu3yMCgYEAzLGsafLsKgtdFlwx8DHnHj4YtbC6wXJh/lLx\nblFIF8H+tT0O6Yp4FvZTOS4BqAeLjczLDUMzBCKHTCvSTsABxcAKzTc8yuMz8QlR\nehhHr2QPTzGZYtVunj4xK1LW5oNVPd2HXvE5m/vNx4d7SdJ1+vgAdCPk+EXr/rC5\n16IQaIkCgYEAkIBMjkGx7TfFK5P4vH/2hw7uv9ZlzVzII8G4qzBcuG6GwdzZMCMp\nPYgHbPhQx9r6qkk8XY5NRNt2owEA5dAD2AcoNpJv54dyXZq/3EZ6LmpiglGGqXeq\nEMKD4l5Q6wSjeOza1ZP37j/w0lRTx51vePERA1KNUyFYzAUuOHLiwdECgYAgAtUs\nyIGoXZiUK5zfrF4xe5KPr3C1Wfb7N+trzihRFtSHcWIIoc///0uqkIhPx8ZKSbGj\nhFPRHLk970h3ak2cqFjIGRBXxkpUMpncVzm2sxY101LigvBGrQExfkX/TKCjCSbn\ncSAKRcm7n3NnaxNqSSiBATAIp56teOPHVh/syQKBgQCjbV4FXgLbaiESVWHn7cRE\nUeFnpDh7rHvasGp7ZblSBBX6kdvB0EsobYfh6WdUftNv40sVASTqCUsXYTrXfTIK\nxp2UBvNL/Kb7nMN9g2RPPyIywpcR1sMz63p8F/qEVVsZrt6WO7TRD6LT7GPe8smU\nbV9SjmYwk34ro+B9dE+XCg==\n-----END PRIVATE KEY-----\n",
-  "client_email": "testaccount@polished-zephyr-272009.iam.gserviceaccount.com",
-  "client_id": "106489717721108048158",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testaccount%40polished-zephyr-272009.iam.gserviceaccount.com"
+  "client_x509_cert_url": ""
 }

@@ -50,8 +50,24 @@
 
 
 ### Prerequisite
-- To setup the Application under test locally, please refer to the document ```Setup Application Under Test Locally.docx```
-- To execute the test cases, we would need to setup the website on our local machine, Please refer to the document:<br />`Site Setup on local Machine.docx`
+- To execute the test cases, we would need to setup the website on our local machine, please refer to the document:<br />```Setup Application Under Test Locally.docx```
+
+- To use google sheets in your project, follow the instructions given below:
+  - In the folder src/config, go to google_config.json file and change the values for the following parameters:
+    - project_id
+    - private_key_id
+    - private_key
+    - client_email
+    - client_id
+    - client_x509_cert_url
+  - Go to url ```https://console.cloud.google.com/home/dashboard``` <br /> and perform the below steps:
+    - Login with your google account and create a new project.
+    - Than enable search for the Sheets API on the url : ```https://console.cloud.google.com/apis/library``` and enable it.
+    - Go to the url ```https://console.cloud.google.com/apis/credentials``` and create a service account key by clicking on `+ Create Creadentials > Service account`
+    - Give the name and manage the permissions and click on done.
+    - Visit the url ```https://console.cloud.google.com/iam-admin/serviceaccounts``` and click on the dots in actions and click on edit.
+    - Under the Keys tab, click on `Add keys` and than get all the details from the page and replace the same in file `google_config.json`.<br/>  
+
 
 - Download dependencies by using the following command: <br />`pip install -r requirements.txt`
 
