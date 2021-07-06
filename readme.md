@@ -70,6 +70,7 @@
 
 
 - Download dependencies by using the following command: <br />`pip install -r requirements.txt`
+- Copy the file ```sheets.googleapis.com-python-quickstart.json``` file from project root folder to ```C://users/{username}/.credentials``` folder.
 
 ### Config Parameters
 - The base url of API is configurable and can be configured in `api_helper.py` in `Helper` folder.
